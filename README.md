@@ -23,7 +23,7 @@ Core Java Interview Question
          Java uses Just In Time compiler to enable high performance. It is used to convert the instructions into bytecodes.
  
 #### Q4  What do you mean by Constructor?
-    #### Constructor can be explained in detail with enlisted points:
+#### Constructor can be explained in detail with enlisted points:
 
   * When a new object is created in a program a constructor gets invoked corresponding to the class.
   * The constructor is a method which has the same name as the class name.
