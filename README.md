@@ -25,8 +25,12 @@ Core Java Interview Question
 #### Q4  What do you mean by Constructor?
     #### Constructor can be explained in detail with enlisted points:
 
-       * When a new object is created in a program a constructor gets invoked corresponding to the class.
-       * The constructor is a method which has the same name as the class name.
-       * If a user doesn’t create a constructor implicitly a default constructor will be created.
-       * The constructor can be overloaded.
-       * If the user created a constructor with a parameter then he should create another constructor explicitly without a parameter.
+      * When a new object is created in a program a constructor gets invoked corresponding to the class.
+      * The constructor is a method which has the same name as the class name.
+      * If a user doesn’t create a constructor implicitly a default constructor will be created.
+      * The constructor can be overloaded.
+      * If the user created a constructor with a parameter then he should create another constructor explicitly without a parameter.
+
+#### Q5  What is meant by the Local variable and the Instance variable?
+* Local variables* are defined in the method and scope of the variables that exist inside the method itself.
+* Instance variable* is defined inside the class and outside the method and the scope of the variables exists throughout the class.
